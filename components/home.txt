@@ -1,0 +1,129 @@
+ <div class="container">
+ <section class="section section__home">
+            <div class="home__news-section">
+                <h1 class="heading">News</h1>
+                <div class="news-section__news">
+                    <div class="news--number">1</div>
+                    <div class="news--content">
+                        <p>RBI may be better placed than Fed, ECB to pause on rates</p>
+                    </div>
+                </div>
+                <div class="news-section__news">
+                    <div class="news--number">2</div>
+                    <div class="news--content">
+                        <p>Credit Suisse erupts into full-blown crisis as rivals back away</p>
+                    </div>
+                </div>
+                <div class="news-section__news">
+                    <div class="news--number">3</div>
+                    <div class="news--content">
+                        <p>What's Chat GPT-4: Everything you should know about AI that not only answers but questions
+                        </p>
+                    </div>
+                </div>
+                <div class="news-section__news">
+                    <div class="news--number">4</div>
+                    <div class="news--content">
+                        <p>America underlines the McMahon Line: What it means for India</p>
+                    </div>
+                </div>
+                <div class="news-section__news">
+                    <div class="news--number">5</div>
+                    <div class="news--content">
+                        <p>India likely to keep April-Sept borrowing under 60% of FY24 goal, sources say</p>
+                    </div>
+                </div>
+                <div class="news-section__news">
+                    <div class="news--number">6</div>
+                    <div class="news--content">
+                        <p>New foreign trade policy to focus on MSMEs, Ecomm Zones, AI</p>
+                    </div>
+                </div>
+            </div>
+            <div class="home__feed-section">
+                <div class="feed__post">
+                    <div class="post__person-details">
+                        <div class="person-details__image"><img src="" alt=""></div>
+                        <div class="person-details__name-position">
+                            <p class="person-detail__name">Maverik Watkins</p>
+                            <p class="person-detail__position">Investor | CEO of Swiss Bank</p>
+                        </div>
+                    </div>
+                    <div class="post__content">Happy to share that I have invested in the Company of agriculture.</div>
+                    <div class="post__image"></div>
+                    <div class="post__reactions">
+                        <div class="post__reaction reactions__like"><img src="" alt=""></div>
+                        <div class="post__reaction reactions__comment"><img src="" alt=""></div>
+                    </div>
+                </div>
+            </div>
+            <div class="home__other-sectors">
+                <h1 class="heading">Other sector</h1>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Agriculture</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Automobile</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Technology</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Crypto</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Marketing</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Games</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Shopping</p>
+                    </div>
+                </div>
+                <div class="other-sector__sector">
+                    <div class="sector--image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="sector--name">
+                        <p>Books</p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </div>
